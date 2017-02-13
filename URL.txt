@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-dotnet-get-started
+
+https://code.msdn.microsoft.com/Simple-Azure-Cloud-Service-e01df2e4
